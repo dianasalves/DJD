@@ -16,7 +16,8 @@ public class InteractableUI : MonoBehaviour
     public Text interactableBookText;
     public Text bookText;
 
-
+    [Header("MenuJogador")]
+    public Image canvasImage;
 
 
 
